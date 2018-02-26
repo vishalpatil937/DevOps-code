@@ -1,4 +1,3 @@
-# autodeploy
 
 Title : Sample MVC Application
 
