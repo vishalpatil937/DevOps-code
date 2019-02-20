@@ -148,21 +148,13 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!--
 		<dependency>
 		    <groupId>com.oracle</groupId>
 		    <artifactId>ojdbc14</artifactId>
 		    <version>10.2.0.3.0</version>
 			<scope>compile</scope>
 		</dependency>
-		-->
-		<!-- ojdbc6.jar example -->
-    		<dependency>
-        		<groupId>com.oracle</groupId>
-<artifactId>ojdbc14</artifactId>
-			<systemPath>${basedir}/ojdbc.jar</systemPath> 
-<version>10.2.0.3.0</version>
-   		 </dependency>
+		
 
 		<dependency>
 		    <groupId>mysql</groupId>
